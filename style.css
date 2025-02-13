@@ -1,0 +1,17 @@
+img {
+    height: 400px;
+    width: auto;
+    
+    /* the next three lines center align the pictures */
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+#homepage {
+    color: green;    
+}
